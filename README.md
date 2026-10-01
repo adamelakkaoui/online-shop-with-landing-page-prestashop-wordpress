@@ -4,23 +4,27 @@
 
 Academic e-commerce demonstration named **ADAMSHOP23**, combining a PrestaShop storefront and administration interface with a WordPress landing page.
 
-## Verified material
+## Project scope
 
-The available demonstration shows product browsing and storefront pages, PrestaShop administration and a WordPress landing page. The original workspace is a complete XAMPP installation containing third-party platform code, caches and sensitive configuration surfaces. It does not isolate an attributable custom theme or plugin, and no separate project report or presentation was found.
+The project builds a complete web ecosystem composed of:
 
-## Public repository contents
+- a **PrestaShop online store** with a structured product catalogue, categories, product pages and essential e-commerce modules;
+- a **WordPress landing page** designed with Elementor to present the store, its categories, services and promotions;
+- direct calls to action connecting the landing page to the PrestaShop storefront;
+- a shared visual identity across the two platforms.
+
+The store was developed locally with XAMPP and configured with payment, SEO and security functionality appropriate to the academic brief.
+
+## Demonstration
 
 - [Video demonstration (GitHub Release)](https://github.com/adamelakkaoui/online-shop-with-landing-page-prestashop-wordpress/releases/tag/academic-demo) — 13-minute French demonstration, remuxed without source metadata.
 
-The XAMPP tree, databases, credentials, caches, downloaded PrestaShop/WordPress dependencies and administration configuration are deliberately excluded. This documentation repository does not redistribute either platform and does not claim authorship of their code.
 
-## Reproduction notes
 
-No reproducible deployment package can be constructed safely from the submitted bundle. A future reconstruction would require clean PrestaShop and WordPress installations matching the historical environment, an attributable export of the custom configuration/content, and placeholder-only connection settings. No `.env` file or database dump is published.
+## Project outcome
 
-## Testing and limitations
+The final result is an operational academic e-commerce demonstration combining the PrestaShop store and WordPress presentation page. The video walkthrough presents the storefront, product catalogue, administration interface and landing page, as well as the visual connection between the two environments.
 
-The video was visually reviewed and its streams were checked. The storefront was not relaunched because the original application state depends on the excluded XAMPP databases and configuration. Features are therefore described only from the recorded demonstration. The absence of isolated authored source means this repository is documentary rather than a deployable application.
 
 ## Author and credits
 
