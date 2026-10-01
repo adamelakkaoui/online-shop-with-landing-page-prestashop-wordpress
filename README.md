@@ -17,7 +17,7 @@ The store was developed locally with XAMPP and configured with payment, SEO and 
 
 ## Demonstration
 
-- [Video demonstration (GitHub Release)](https://github.com/adamelakkaoui/online-shop-with-landing-page-prestashop-wordpress/releases/tag/academic-demo) — 13-minute French demonstration, remuxed without source metadata.
+- [Video demonstration (GitHub Release)](https://github.com/adamelakkaoui/online-shop-with-landing-page-prestashop-wordpress/releases/tag/academic-demo) — French demonstration of the project.
 
 
 
@@ -26,6 +26,6 @@ The store was developed locally with XAMPP and configured with payment, SEO and 
 The final result is an operational academic e-commerce demonstration combining the PrestaShop store and WordPress presentation page. The video walkthrough presents the storefront, product catalogue, administration interface and landing page, as well as the visual connection between the two environments.
 
 
-## Author and credits
+## Author
 
-Adam El Akkaoui is identified by the submitted project and video filenames. PrestaShop, WordPress, XAMPP and their bundled components remain third-party software under their respective terms. No teammate name was established in the inspected project evidence.
+- Adam El Akkaoui
