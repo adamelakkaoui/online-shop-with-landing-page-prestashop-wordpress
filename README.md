@@ -1,5 +1,8 @@
 # Online Shop with Landing Page – PrestaShop, WordPress
 
+![WEB & E-COMMERCE — ADAMSHOP23](assets/portfolio-banner.svg)
+
+
 Academic e-commerce demonstration named **ADAMSHOP23**, combining a PrestaShop storefront and administration interface with a WordPress landing page.
 
 ## Project scope
